@@ -7,6 +7,6 @@
 - ⚡ Fun fact: im a huge nerd
 
 <!---
-Garygraydude/Garygraydude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gabriel.r.s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
